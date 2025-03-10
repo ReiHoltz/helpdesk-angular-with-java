@@ -28,15 +28,11 @@ The backend is a RESTful API responsible for handling authentication, user manag
 - **Github**
 - **Maven**
 
+## Features
 
-
-## Installation
-To run this project locally, follow the steps below:
-
-1. Clone the repository:  
-   git clone https://github.com/ReiHoltz/helpdesk-front.git
-2. Install the dependencies:
-   npm install
-3. Run the development server:
-   ng serve
-4. Navigate to http://localhost:4200 in your browser to see the application in action.
+- User authentication and authorization using JWT.
+- CRUD operations on various entities.
+- Database integration with MySQL using JPA and Hibernate.
+- Validation of request payloads to ensure data integrity.
+- Standardized error handling with meaningful responses.
+- RESTful API architecture following HTTP best practices.
