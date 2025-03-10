@@ -25,8 +25,10 @@ The backend is a RESTful API responsible for handling authentication, user manag
 - **JWT & Spring Security** - Provides authentication and authorization.
 - **Bean Validation** - Ensures data integrity and validation.
 - **RESTful API** - Adheres to best practices for API design
-- **Github**
-- **Maven**
+- **Github** - Version control and collaboration platform for managing source code.
+- **Maven** - Dependency management and build automation tool for Java projects.
+
+Version control and collaboration platform for managing source code.
 
 ## Features
 
